@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DingGong.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning 3d modeling.
